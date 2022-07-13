@@ -1,0 +1,15 @@
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\NumbersN.csproj.AssemblyReference.cache
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\NumbersN.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\NumbersN.AssemblyInfoInputs.cache
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\NumbersN.AssemblyInfo.cs
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\NumbersN.csproj.CoreCompileInputs.cache
+G:\Documents\Homework\Project\Homework\NumbersN\bin\Debug\net6.0\NumbersN.exe
+G:\Documents\Homework\Project\Homework\NumbersN\bin\Debug\net6.0\NumbersN.deps.json
+G:\Documents\Homework\Project\Homework\NumbersN\bin\Debug\net6.0\NumbersN.runtimeconfig.json
+G:\Documents\Homework\Project\Homework\NumbersN\bin\Debug\net6.0\NumbersN.dll
+G:\Documents\Homework\Project\Homework\NumbersN\bin\Debug\net6.0\NumbersN.pdb
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\NumbersN.dll
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\refint\NumbersN.dll
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\NumbersN.pdb
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\NumbersN.genruntimeconfig.cache
+G:\Documents\Homework\Project\Homework\NumbersN\obj\Debug\net6.0\ref\NumbersN.dll

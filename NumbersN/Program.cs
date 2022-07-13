@@ -1,11 +1,11 @@
 ﻿Console.Write("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
-int rem = 1;
-while (rem <= num)
+int a = Convert.ToInt32(Console.ReadLine());
+int index = 1;
+while (index <= a)
 {
-    if (rem % 2 == 0)
+    if (index % 2 == 0)
     {
-        Console.Write(rem + " ");
+        Console.Write(index + " ");
     }
-    rem++;
+    index++;
 }
