@@ -1,0 +1,15 @@
+G:\Documents\Homework\Project\Homework\Max\bin\Debug\net6.0\Max.exe
+G:\Documents\Homework\Project\Homework\Max\bin\Debug\net6.0\Max.deps.json
+G:\Documents\Homework\Project\Homework\Max\bin\Debug\net6.0\Max.runtimeconfig.json
+G:\Documents\Homework\Project\Homework\Max\bin\Debug\net6.0\Max.dll
+G:\Documents\Homework\Project\Homework\Max\bin\Debug\net6.0\Max.pdb
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\Max.csproj.AssemblyReference.cache
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\Max.AssemblyInfoInputs.cache
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\Max.AssemblyInfo.cs
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\Max.csproj.CoreCompileInputs.cache
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\Max.dll
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\refint\Max.dll
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\Max.pdb
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\Max.genruntimeconfig.cache
+G:\Documents\Homework\Project\Homework\Max\obj\Debug\net6.0\ref\Max.dll
